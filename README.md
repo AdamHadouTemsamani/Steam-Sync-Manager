@@ -1,6 +1,6 @@
 # Steam-Sync-Manager
 
-Steam Sync Manager helps you generate and maange Steam launch options for game save data through rclone. This is intended for games that do not have native Steam Cloud Save functionality.
+Steam Sync Manager helps you generate and manage Steam launch options for game save data through rclone. This is intended for games that do not have native Steam Cloud Save functionality.
 
 The application can:
 - Detect Steam user profiles
